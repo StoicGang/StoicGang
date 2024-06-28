@@ -37,7 +37,7 @@ I am passionate about cybersecurity and coding, with a focus on developing robus
 
 ## 🌐 Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicGang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicGang&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=StoicGang&layout=compact&theme=radical)
 
 ---
 
