@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/StoicGang/StoicGang/blob/main/Ganesh%20Ghadge.png)
 # Ganesh Ghadge - Cybersecurity Professional & Coder
 
 ## About Me
