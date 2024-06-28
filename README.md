@@ -29,5 +29,5 @@ I am passionate about cybersecurity and coding, with a focus on developing robus
 - Cryptography
 
 ## Contact Me
-- Email: your.email@example.com
+
 - LinkedIn: [linkedin.com/in/ganeshghadge](https://linkedin.com/in/ganeshghadge)
