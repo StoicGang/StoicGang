@@ -1,19 +1,37 @@
-<h1 align="center">Hi 👋, I'm Pradeep Misal</h1>
-<h3 align="center">A Passionate computer engineering student with a keen interest in emerging technologies. </h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+![logo](https://github.com/StoicGang/StoicGang/blob/main/Ganesh%20Ghadge.png)
 
-- 🌱 I’m currently learning **Data structure and Algorithms and AI**
+# Ganesh Ghadge - Cybersecurity Professional & Coder
 
-- 👯 I’m looking to collaborate on **Industry Projects**
+## About Me
+I am passionate about cybersecurity and coding, with a focus on developing robust solutions and enhancing security measures. My background includes extensive experience in handling complex projects and competitions.
 
-- 📫 How to reach me **pradeepmisal698@gmail.com**
+## Achievements
+- *World Record in Augmented Reality*: Developed an innovative physics book with Tech Avinya.
+- *Hackathon Success*: Winner of multiple hackathons, including:
+  - ₹2 Lakh Hackathon: First prize winner.
+  - 36-Hour Hackathon: Secured first place.
 
-- ⚡ Fun fact **I think I am Visionary Programmer**
+## 🚀 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pradeep-misal-87403b1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep misal" height="30" width="40" /></a>
-</p>
+### Cybersecurity
+![Network Security](https://img.shields.io/badge/Network%20Security-3D85C6?style=for-the-badge&logo=security&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-FF6F00?style=for-the-badge&logo=threat-detection&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-3D85C6?style=for-the-badge&logo=penetration-testing&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-FF6F00?style=for-the-badge&logo=incident-response&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Coding
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## Interests
+- AI and Machine Learning
+- Web Security
+- Cryptography
+
+## 📫 Contact Me
+- LinkedIn: [linkedin.com/in/ganeshghadge](https://linkedin.com/in/ganeshghadge)
+
+---
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=StoicGang)
