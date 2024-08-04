@@ -3,7 +3,7 @@
 # Ganesh Ghadge - Cybersecurity Professional & Coder
 
 ## About Me
-I am passionate about cybersecurity and coding, with a focus on developing robust solutions and enhancing security measures. My background includes extensive experience in handling complex projects and competitions.
+I am passionate about cybersecurity and coding, focusing on developing robust solutions and enhancing security measures. My background includes extensive experience in handling complex projects and competitions.
 
 ## Achievements
 - *World Record in Augmented Reality*: Developed an innovative physics book with Tech Avinya.
@@ -29,7 +29,7 @@ I am passionate about cybersecurity and coding, with a focus on developing robus
 - Cryptography
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/ganeshghadge](https://linkedin.com/in/ganeshghadge)
+- LinkedIn [linkedin.com/in/ganeshghadge](https://linkedin.com/in/ganeshghadge)
 
 ---
 
