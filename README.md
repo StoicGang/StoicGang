@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Information & Technology student with a keen interest in Cybersecurity. </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **Data structure and Algorithms and AI**
+- 🌱 I’m currently learning **Cybersecurity and Penetration Testing**
 
 - 👯 I’m looking to collaborate on **Industry Projects**
 
