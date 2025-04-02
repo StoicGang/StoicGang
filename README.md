@@ -32,9 +32,9 @@ Zer0 - Cybersecurity Enthusiast | AI Innovator | AR Developer
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Compliance-Automation-Tool&theme=dark)](https://github.com/zer0/Compliance-Automation-Tool)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Network-Analyzer&theme=dark)](https://github.com/zer0/Network-Analyzer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Assurefi-Agentic-AI&theme=dark)](https://github.com/zer0/Assurefi-Agentic-AI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Compliance-Automation-Tool&theme=dark)]([https://github.com/zer0/Compliance-Automation-Tool](https://github.com/StoicGang/Compliance-Automation-Tool))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Network-Analyzer&theme=dark)]([https://github.com/zer0/Network-Analyzer](https://github.com/StoicGang/Project-AR))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0&repo=Assurefi-Agentic-AI&theme=dark)]([https://github.com/zer0/Assurefi-Agentic-AI](https://github.com/StoicGang/Web_Security_Academy_Labs))
 
 ---
 
