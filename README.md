@@ -66,7 +66,7 @@
 
 ## 📊 GitHub & TryHackMe Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)
-![TryHackMe Stats](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" style='border:none;'></iframe>)
+![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732)
 
 ```sh
 > cat contacts.txt
