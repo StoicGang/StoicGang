@@ -1,72 +1,50 @@
-```sh
-> whoami
-👋 Hi, I'm Zer0
-> echo "Passionate Cybersecurity Enthusiast | Penetration Tester | Researcher"
-```
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/terminal_header.gif" alt="Terminal Header">
+</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=00FF00&size=24&width=600&lines=Welcome+to+my+cyber+terminal..." alt="Typing Animation">
+</p>
 
-![Profile Banner](A_digital_banner_image_displays_the_name_and_profe.png)
+```console
+$ whoami
+┌──(root💀ghadge)-[~/profile]
+└─$ cat about_me.txt
+  ╭───────────────────────────────────────╮
+  │  🔐 Ganesh Ghadge                     │
+  │  📡 Cybersecurity Operator            │
+  │  🎯 TryHackMe Top 2% | Google Certified
+  │  💻 OS: Kali Linux & Windows WSL      │
+  ╰───────────────────────────────────────╯
 
-## 🚀 About Me
-- 🛡 **Cybersecurity & Compliance Researcher**
-- 🏆 **World Record Holder** (Wondering Physics with Avinya)
-- 🥇 **International Hackathon Winner** (AssureFi - Agentic AI)
-- 🏅 **National Hackathon Winner** (Medica - Augmented Reality)
-- 🔬 **Developed Tools**: Compliance Automation Tool, Network Analyser, AssureFi, Medica
-- 💻 **Technical Expertise**: Penetration Testing, C++ & DSA, Python, Nmap, Burp Suite, AI Security
-- 📚 **Writing & Research**: Published Medium articles on Cybersecurity
+┌──(root💀ghadge)-[~/skills]
+└─$ ls -la
+drwxr-xr-x  tools   [ Kali | Burp Suite | Nmap ]
+-rwxr-xr-x  langs   [ Python | Bash ]
+-rw-r--r--  learning [ Cloud Pentesting | OSINT ]
 
----
+┌──(root💀ghadge)-[~/projects]
+└─$ grep -Ri "recent_work"
+  ► Compliance Automation Tool (Python)      [Status: Operational]
+  ► Network Traffic Analyzer                [Status: v1.2 Active]
 
-## 🛠 Tech Stack & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white)
+┌──(root💀ghadge)-[~/blog]
+└─$ curl -X GET https://medium.com/@yourusername/latest
+  🆕 Latest Article: "TryHackMe: Buffer Overflow Deep Dive"
+  📎 Read: medium.com/@yourusername/thm-bof
 
----
+┌──(root💀ghadge)-[~/ctf]
+└─$ sudo nmap --script vuln
+  PORT     STATE SERVICE    VULNERABILITY
+  80/tcp   open http      XSS in WebApp-X (CVSS:7.8)
+  443/tcp  open ssl/http  Heartbleed (CVE-2014-0160)
+  8080/tcp open http-proxy API Auth Bypass
 
-## 📌 Featured Projects
-🚀 **AssureFi** *(Agentic AI Security Tool)*  
-🏆 *International Hackathon Winner*  
-🔗 [GitHub Repository](#)
+┌──(root💀ghadge)-[~/contact]
+└─$ nc -lvp 4444
+  📧 protonmail@ganesh.sec
+  🔑 PGP Fingerprint: 1A3B C5D7 E9F2 04A6 (FAKE - REPLACE WITH YOURS)
+  🔗 linkedin.com/in/yourprofile
 
-🛡 **Compliance Automation Tool** *(Regulatory Auditing Framework)*  
-🔗 [GitHub Repository](#)
-
-🌍 **Medica** *(Augmented Reality for Healthcare)*  
-🥇 *National Hackathon Winner*  
-🔗 [GitHub Repository](#)
-
-🔍 **Network Analyser** *(Advanced Threat Detection)*  
-🔗 [GitHub Repository](#)
-
----
-
-## 📜 Latest Articles
-✍️ [Understanding Web Application Security](#)  
-🔍 [Exploiting Misconfigured Systems](#)  
-🛡 [Threat Modeling & Risk Assessment](#)  
-
----
-
-## 📊 GitHub & TryHackMe Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/zer0.png)
-
----
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=zer0&label=Profile%20Views&color=0e75b6&style=flat)
-
-```
-> exit
-```
+┌──(root💀ghadge)-[~/]
+└─$ exit
