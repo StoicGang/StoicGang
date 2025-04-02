@@ -15,8 +15,8 @@
 ## 🚀 About Me
 - 🛡 **Cybersecurity & Compliance Researcher**
 - 🏆 **World Record Holder** (Wondering Physics with Avinya)
-- 🥇 **International Hackathon Winner** (AssureFi - Agentic AI)
-- 🏅 **National Hackathon Winner** (Medica - Augmented Reality)
+- 🏅 **International Hackathon Winner** (AssureFi - Agentic AI)
+- 🏆 **National Hackathon Winner** (Medica - Augmented Reality)
 - 🔬 **Developed Tools**: Compliance Automation Tool, Network Analyser, AssureFi, Medica
 - 💻 **Technical Expertise**: Penetration Testing, C++ & DSA, Python, Nmap, Burp Suite, AI Security
 - 📚 **Writing & Research**: Published Medium articles on Cybersecurity
@@ -39,24 +39,24 @@
 ## 📌 Featured Projects
 🚀 **AssureFi** *(Agentic AI Security Tool)*  
 🏆 *International Hackathon Winner*  
-🔗 [GitHub Repository](#)
+📚 [GitHub Repository](#)
 
 🛡 **Compliance Automation Tool** *(Regulatory Auditing Framework)*  
-🔗 [GitHub Repository](#)
+📚 [GitHub Repository](#)
 
 🌍 **Medica** *(Augmented Reality for Healthcare)*  
-🥇 *National Hackathon Winner*  
-🔗 [GitHub Repository](#)
+🏅 *National Hackathon Winner*  
+📚 [GitHub Repository](#)
 
 🔍 **Network Analyser** *(Advanced Threat Detection)*  
-🔗 [GitHub Repository](#)
+📚 [GitHub Repository](#)
 
 ```sh
 > cat latest_articles.txt
 ```
 
-## 📜 Latest Articles
-✍️ [Understanding Web Application Security](#)  
+## 🐜 Latest Articles
+🌟 [Understanding Web Application Security](#)  
 🔍 [Exploiting Misconfigured Systems](#)  
 🛡 [Threat Modeling & Risk Assessment](#)  
 
@@ -66,16 +66,16 @@
 
 ## 📊 GitHub & TryHackMe Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)
-![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" style='border:none;'></iframe>
 
 ```sh
 > cat contacts.txt
 ```
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)  
 
 ---
 
