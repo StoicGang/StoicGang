@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zer0's Cybersecurity Terminal</title>
+    <style>
+        body { background: black; color: limegreen; font-family: monospace; padding: 20px; }
+        .terminal { max-width: 800px; margin: auto; padding: 10px; border: 2px solid limegreen; }
+        #terminalOutput { white-space: pre-wrap; }
+        #terminalInput { background: black; color: limegreen; border: none; width: 100%; outline: none; font-family: monospace; }
+        @keyframes blink { 50% { opacity: 0; } }
+        .cursor { animation: blink 1s step-end infinite; }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div id="terminalOutput">visitor@zer0:~$</div>
+        <input type="text" id="terminalInput" autofocus onkeypress="handleKeyPress(event)">
+    </div>
+    <script>
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                let input = document.getElementById("terminalInput").value.toLowerCase();
+                let outputDiv = document.getElementById("terminalOutput");
+                let response = "Command not found. Try: whoami, ls -l ~/projects, cat ~/achievements.txt, man zer0, ls -l ~/certifications, nmap -A zer0";switch (input) {
+                case "whoami":
+                    response = "Zer0 - Cybersecurity Enthusiast | Penetration Tester | Researcher | Hackathon Winner";
+                    break;
+                case "ls -l ~/projects":
+                    response = "AssureFi/  Medica/  Compliance_Automation_Tool/  Network_Analyzer/";
+                    break;
+                case "cat ~/achievements.txt":
+                    response = "- National & International Hackathon Victories\n- World Record Holder - Medica (Augmented Reality)\n- Top 20 in Technovate for India Initiative\n- Daily TryHackMe Streak | HTB Solver\n- Developed security tools and compliance automation frameworks";
+                    break;
+                case "man zer0":
+                    response = "Zer0: A cybersecurity specialist dedicated to ethical hacking, AI security, and compliance automation.";
+                    break;
+                case "ls -l ~/certifications":
+                    response = "OSCP/  CEH/  CompTIA Security+/  TryHackMe Top 1%/";
+                    break;
+                case "nmap -A zer0":
+                    response = "Scanning skills... Open ports: 80 (Web Security), 443 (Cryptography), 22 (Penetration Testing), 8080 (AI Security)";
+                    break;
+            }
+            
+            outputDiv.innerHTML += "\nvisitor@zer0:~$ " + input + "\n" + response;
+            document.getElementById("terminalInput").value = "";
+        }
+    }
+</script>
+
+</body>
+</html>
