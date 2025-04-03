@@ -1,6 +1,6 @@
 <h1 align="center">Zer0's Cybersecurity Terminal</h1>
 ---
-
+```html
 <script>
 // Store command history
 let history = [];
@@ -61,7 +61,7 @@ function handleCommand() {
     <br>
     <p id="terminalOutput"></p>
 </div>
-
+```
 👨‍💻 About Me
 
 🔹 Penetration Tester | Researcher | Hackathon Winner
