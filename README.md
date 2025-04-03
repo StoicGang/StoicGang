@@ -1,86 +1,145 @@
-```sh
-> whoami
-👋 Hi, I'm Zer0
-> echo "Passionate Cybersecurity Enthusiast | Penetration Tester | Researcher"
-```
+<h1 align="center">Zer0's Cybersecurity Terminal</h1>
+---
+
+<script>
+// Store command history
+let history = [];
+function handleCommand() {
+    let input = document.getElementById("terminalInput").value.toLowerCase();
+    let output = document.getElementById("terminalOutput");
+    history.push(input);
+    localStorage.setItem("terminalHistory", JSON.stringify(history));
+    
+    switch(input) {
+        case "whoami":
+            output.innerHTML = "Zer0 - Cybersecurity Enthusiast | Penetration Tester | Researcher | Hackathon Winner";
+            break;
+        case "ls -l ~/projects":
+            output.innerHTML = "AssureFi/  Medica/  Compliance_Automation_Tool/  Network_Analyzer/";
+            break;
+        case "cat ~/achievements.txt":
+            output.innerHTML = "- National & International Hackathon Victories 🥇<br>- World Record Holder - Medica (Augmented Reality) 🌎<br>- Top 20 in Technovate for India Initiative 🚀<br>- Daily TryHackMe Streak | HTB Solver 🔥<br>- Developed cutting-edge security tools and compliance automation frameworks 🎯";
+            break;
+        case "man zer0":
+            output.innerHTML = "Zer0: A cybersecurity specialist dedicated to ethical hacking, AI security, and compliance automation.";
+            break;
+        case "ls -l ~/certifications":
+            output.innerHTML = "OSCP/  CEH/  CompTIA Security+/  TryHackMe Top 1%/";
+            break;
+        case "nmap -A zer0":
+            output.innerHTML = "Scanning skills... Open ports: 80 (Web Security), 443 (Cryptography), 22 (Penetration Testing), 8080 (AI Security)";
+            break;
+        default:
+            output.innerHTML = "Command not found. Try: whoami, ls -l ~/projects, cat ~/achievements.txt, man zer0, ls -l ~/certifications, nmap -A zer0";
+    }
+}
+</script>
+
+<style>
+  .terminal {
+    background: black;
+    color: limegreen;
+    padding: 10px;
+    font-family: monospace;
+  }
+  #terminalInput {
+    background: black;
+    color: limegreen;
+    border: none;
+    outline: none;
+  }
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+  .cursor { animation: blink 1s step-end infinite; }
+</style>
+
+<div class="terminal">
+    <span style="color:white;">visitor@zer0:~$</span> 
+    <input type="text" id="terminalInput" onkeypress="if(event.key === 'Enter') handleCommand();" autofocus>
+    <span class="cursor">|</span>
+    <br>
+    <p id="terminalOutput"></p>
+</div>
+
+👨‍💻 About Me
+
+🔹 Penetration Tester | Researcher | Hackathon Winner
+🔹 Cybersecurity Enthusiast | Compliance Expert
+🔹 Building Agentic AI, Augmented Reality & Compliance Automation
+
+I’m a cybersecurity professional with a passion for ethical hacking, automation, and AI-driven security solutions. I love competing in hackathons, breaking security barriers, and solving real-world problems with technology.
+
 
 ---
 
-![Profile Banner](A_digital_banner_image_displays_the_name_and_profe.png)
+🏆 Achievements
 
-```sh
-> cat about_me.txt
-```
+🥇 National & International Hackathon Victories
 
-## 🚀 About Me
-- 🛡 **Cybersecurity & Compliance Researcher**
-- 🏆 **World Record Holder** (Wondering Physics with Avinya)
-- 🏅 **International Hackathon Winner** (AssureFi - Agentic AI)
-- 🏆 **National Hackathon Winner** (Medica - Augmented Reality)
-- 🔬 **Developed Tools**: Compliance Automation Tool, Network Analyser, AssureFi, Medica
-- 💻 **Technical Expertise**: Penetration Testing, C++ & DSA, Python, Nmap, Burp Suite, AI Security
-- 📚 **Writing & Research**: Published Medium articles on Cybersecurity
+🌎 World Record Holder - Medica (Augmented Reality)
 
-```sh
-> cat tech_stack.txt
-```
+🚀 Top 20 in Technovate for India Initiative
 
-## 🛠 Tech Stack & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white)
+🔥 Daily TryHackMe Streak | HTB Solver
 
-```sh
-> ls projects/
-```
+🎯 Developed cutting-edge security tools and compliance automation frameworks
 
-## 📌 Featured Projects
-🚀 **AssureFi** *(Agentic AI Security Tool)*  
-🏆 *International Hackathon Winner*  
-📚 [GitHub Repository](#)
 
-🛡 **Compliance Automation Tool** *(Regulatory Auditing Framework)*  
-📚 [GitHub Repository](#)
-
-🌍 **Medica** *(Augmented Reality for Healthcare)*  
-🏅 *National Hackathon Winner*  
-📚 [GitHub Repository](#)
-
-🔍 **Network Analyser** *(Advanced Threat Detection)*  
-📚 [GitHub Repository](#)
-
-```sh
-> cat latest_articles.txt
-```
-
-## 🐜 Latest Articles
-🌟 [Understanding Web Application Security](#)  
-🔍 [Exploiting Misconfigured Systems](#)  
-🛡 [Threat Modeling & Risk Assessment](#)  
-
-```sh
-> cat stats.log
-```
-
-## 📊 GitHub & TryHackMe Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)  
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/2252732.png)
-
-```sh
-> cat contacts.txt
-```
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=zer0&label=Profile%20Views&color=0e75b6&style=flat)
+🔧 Technical Skills
 
-```sh
-> exit
-```
+Languages: C++, Python, Bash
+
+Tools & Frameworks: Nmap, Burp Suite, Metasploit
+
+Security Domains: Web & Network Penetration Testing, Threat Hunting, Compliance Auditing
+
+
+
+---
+
+📌 Featured Projects
+
+🛡️ AssureFi (Agentic AI for Cybersecurity)
+
+🏥 Medica (Augmented Reality in Healthcare)
+
+📜 Compliance Automation Tool (Ensuring Regulatory Compliance)
+
+🌐 Network Analyzer (Real-time Traffic Monitoring)
+
+
+
+---
+
+📈 My Stats
+
+GitHub Activity
+
+
+
+TryHackMe Progress
+
+
+
+Latest Medium Articles
+
+<!-- Medium Auto-Update Widget -->
+---
+
+📡 Let's Connect!
+
+🏴‍☠️ TryHackMe
+
+📜 Medium Articles
+
+🐙 GitHub
+
+📧 zer0@cybersecurity.dev
+
+
+# Thank you for visiting! Keep hacking ethically.
+
