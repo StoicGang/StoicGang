@@ -44,7 +44,7 @@ nmap -A zer0
 ## 📈 Live Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StoicGang&theme=tokyonight)](https://github.com/StoicGang)
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1Zer0.png)](https://tryhackme.com/p/1Zer0)
-[![Medium Articles](https://img.shields.io/badge/Read-My%20Articles-green?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
+[![Medium Articles](https://img.shields.io/badge/Read-My%20Articles-green?style=for-the-badge&logo=medium)](https://medium.com/@stoicgaster0.07)
 
 ---
-**🔗 Explore my interactive terminal and discover more:** [**Launch Now**](https://yourusername.github.io/zer0-terminal/) 🚀
+**🔗 Explore my interactive terminal and discover more:** [**Launch Now**](https://StoicGang.github.io/StoicGang/) 🚀
