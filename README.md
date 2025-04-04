@@ -1,82 +1,86 @@
-# 🛡️ Zer0's Cybersecurity Portfolio
-
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-00ff9d?style=for-the-badge&logo=github)](https://yourusername.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-
-## 👋 Welcome to my Interactive Cybersecurity Terminal
-
-![Terminal Preview](preview.gif)
-
-Explore my portfolio through an interactive cybersecurity-themed terminal experience! Whether you prefer typing commands or clicking navigation buttons, this portfolio showcases my projects, skills and achievements in an engaging way.
-
-### 🚀 Features
-
-- **Interactive Terminal Interface**: Execute commands to explore different sections
-- **User-Friendly Navigation**: Easy buttons for non-technical visitors
-- **Responsive Design**: Works on both desktop and mobile devices
-- **Cyberpunk Aesthetics**: Terminal-style interface with stylish animations
-
-### 💻 Try These Commands
-
-```bash
-visitor@zer0:~$ whoami       # Learn about me
-visitor@zer0:~$ projects     # View my portfolio projects
-visitor@zer0:~$ skills       # See my technical expertise
-visitor@zer0:~$ achievements # Check out my awards and recognition
-visitor@zer0:~$ contact      # Get my contact information
-visitor@zer0:~$ help         # See all available commands
+```sh
+> whoami
+👋 Hi, I'm Zer0
+> echo "Passionate Cybersecurity Enthusiast | Penetration Tester | Researcher"
 ```
-
-## 🔒 Security Expertise
-
-- **Penetration Testing & Vulnerability Assessment**
-- **AI & Machine Learning Security**
-- **Compliance Automation & Risk Management**
-- **Secure Application Development**
-
-## 📊 Technical Skills
-
-| Security | Programming | Tools & Technologies |
-|----------|-------------|---------------------|
-| Penetration Testing | Python | Burp Suite |
-| Vulnerability Assessment | C++ | Metasploit |
-| Secure Code Review | JavaScript | Wireshark |
-| Threat Modeling | Bash/Shell | Nmap |
-| Network Security | SQL | Docker |
-| OSINT | Go | AWS Security |
-
-## 🏆 Featured Projects
-
-### AssureFi: AI-Powered Financial Security Platform
-Intelligent system that monitors financial transactions in real-time to detect fraudulent activities using advanced machine learning algorithms.
-- **Technologies**: React, TensorFlow, Blockchain
-
-### Medica Shield: Healthcare Compliance Automation
-Comprehensive solution for healthcare organizations to automate HIPAA compliance checks, vulnerability assessment, and security awareness training.
-- **Technologies**: Python, Django, AWS
-
-### Network Guardian: Advanced Network Analysis Tool
-Deep packet inspection and anomaly detection to identify potential security threats before they can cause damage.
-- **Technologies**: C++, Wireshark API, Machine Learning
-
-## 📜 Certifications
-
-- Offensive Security Certified Professional (OSCP)
-- Certified Ethical Hacker (CEH)
-- CompTIA Security+
-- AWS Security Specialty
-
-## 📬 Let's Connect
-
-I'm always open to discussing cybersecurity projects, career opportunities, or just chatting about the latest security trends!
-
-[![Email](https://img.shields.io/badge/Email-Contact-bd00ff?style=flat-square&logo=gmail)](mailto:email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00ff9d&style=flat-square" alt="Profile views">
-</p>
+![Profile Banner](A_digital_banner_image_displays_the_name_and_profe.png)
+
+```sh
+> cat about_me.txt
+```
+
+## 🚀 About Me
+- 🛡 **Cybersecurity & Compliance Researcher**
+- 🏆 **World Record Holder** (Wondering Physics with Avinya)
+- 🏅 **International Hackathon Winner** (AssureFi - Agentic AI)
+- 🏆 **National Hackathon Winner** (Medica - Augmented Reality)
+- 🔬 **Developed Tools**: Compliance Automation Tool, Network Analyser, AssureFi, Medica
+- 💻 **Technical Expertise**: Penetration Testing, C++ & DSA, Python, Nmap, Burp Suite, AI Security
+- 📚 **Writing & Research**: Published Medium articles on Cybersecurity
+
+```sh
+> cat tech_stack.txt
+```
+
+## 🛠 Tech Stack & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white)
+
+```sh
+> ls projects/
+```
+
+## 📌 Featured Projects
+🚀 **AssureFi** *(Agentic AI Security Tool)*  
+🏆 *International Hackathon Winner*  
+📚 [GitHub Repository](#)
+
+🛡 **Compliance Automation Tool** *(Regulatory Auditing Framework)*  
+📚 [GitHub Repository](#)
+
+🌍 **Medica** *(Augmented Reality for Healthcare)*  
+🏅 *National Hackathon Winner*  
+📚 [GitHub Repository](#)
+
+🔍 **Network Analyser** *(Advanced Threat Detection)*  
+📚 [GitHub Repository](#)
+
+```sh
+> cat latest_articles.txt
+```
+
+## 🐜 Latest Articles
+🌟 [Understanding Web Application Security](#)  
+🔍 [Exploiting Misconfigured Systems](#)  
+🛡 [Threat Modeling & Risk Assessment](#)  
+
+```sh
+> cat stats.log
+```
+
+## 📊 GitHub & TryHackMe Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)  
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/2252732.png)
+
+```sh
+> cat contacts.txt
+```
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=zer0&label=Profile%20Views&color=0e75b6&style=flat)
+
+```sh
+> exit
+```
