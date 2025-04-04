@@ -3,7 +3,7 @@
 🚀 **Welcome to my interactive cybersecurity portfolio!** Experience a terminal-like interface that showcases my expertise, achievements, and projects.
 
 ## 🖥️ Try the Interactive Terminal
-[![Launch Terminal](https://img.shields.io/badge/Launch-Terminal-black?style=for-the-badge&logo=windows-terminal)](https://StoicGang.github.io/zer0-terminal/)
+[![Launch Terminal](https://img.shields.io/badge/Launch-Terminal-black?style=for-the-badge&logo=windows-terminal)](https://StoicGang.github.io/StoicGang/)
 
 ## 🔍 About Me
 ```bash
