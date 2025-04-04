@@ -1,52 +1,82 @@
-# 🔰 Zer0's Cybersecurity Terminal
+# 🛡️ Zer0's Cybersecurity Portfolio
 
-🚀 **Welcome to my interactive cybersecurity portfolio!** Experience a terminal-like interface that showcases my expertise, achievements, and projects.
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-00ff9d?style=for-the-badge&logo=github)](https://yourusername.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
 
-## 🖥️ Try the Interactive Terminal
-[![Launch Terminal](https://img.shields.io/badge/Launch-Terminal-black?style=for-the-badge&logo=windows-terminal)](https://StoicGang.github.io/StoicGang/)
+## 👋 Welcome to my Interactive Cybersecurity Terminal
 
-## 🔍 About Me
+![Terminal Preview](preview.gif)
+
+Explore my portfolio through an interactive cybersecurity-themed terminal experience! Whether you prefer typing commands or clicking navigation buttons, this portfolio showcases my projects, skills and achievements in an engaging way.
+
+### 🚀 Features
+
+- **Interactive Terminal Interface**: Execute commands to explore different sections
+- **User-Friendly Navigation**: Easy buttons for non-technical visitors
+- **Responsive Design**: Works on both desktop and mobile devices
+- **Cyberpunk Aesthetics**: Terminal-style interface with stylish animations
+
+### 💻 Try These Commands
+
 ```bash
-whoami
+visitor@zer0:~$ whoami       # Learn about me
+visitor@zer0:~$ projects     # View my portfolio projects
+visitor@zer0:~$ skills       # See my technical expertise
+visitor@zer0:~$ achievements # Check out my awards and recognition
+visitor@zer0:~$ contact      # Get my contact information
+visitor@zer0:~$ help         # See all available commands
 ```
-🔹 Penetration Tester | Cybersecurity Researcher | Hackathon Winner  
-🔹 Passionate about ethical hacking, AI security, and compliance automation  
-🔹 Daily TryHackMe Lab Solver | HTB Machine Breaker  
 
-## 📌 Featured Projects
-```bash
-ls -l ~/projects
-```
-- **AssureFi** (Agentic AI Security) 🛡️
-- **Medica** (Augmented Reality in Healthcare) 🏥
-- **Compliance Automation Tool** (Security Frameworks & Audits) 🔍
-- **Network Analyzer** (Advanced Packet Inspection) 📡
+## 🔒 Security Expertise
 
-## 🏆 Achievements
-```bash
-cat ~/achievements.txt
-```
-✅ National & International Hackathon Victories 🏅  
-✅ World Record Holder - Medica (Augmented Reality) 🌍  
-✅ Top 20 in Technovate for India Initiative 🚀  
-✅ TryHackMe Top 1% | Daily Streak 🔥  
-✅ Built cutting-edge security tools and compliance frameworks 🔒  
+- **Penetration Testing & Vulnerability Assessment**
+- **AI & Machine Learning Security**
+- **Compliance Automation & Risk Management**
+- **Secure Application Development**
 
-## 🛠️ Technical Skills
-```bash
-nmap -A zer0
-```
-- **Programming:** C++, Python 🐍  
-- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark 🔧  
-- **Pentesting:** Web Security, Network Security, AI Red-Teaming 🏴‍☠️  
-- **Certifications:** OSCP, CEH, CompTIA Security+ 📜  
+## 📊 Technical Skills
 
-## 📈 Live Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StoicGang&theme=tokyonight)](https://github.com/StoicGang)
+| Security | Programming | Tools & Technologies |
+|----------|-------------|---------------------|
+| Penetration Testing | Python | Burp Suite |
+| Vulnerability Assessment | C++ | Metasploit |
+| Secure Code Review | JavaScript | Wireshark |
+| Threat Modeling | Bash/Shell | Nmap |
+| Network Security | SQL | Docker |
+| OSINT | Go | AWS Security |
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1Zer0.png)](https://tryhackme.com/p/1Zer0)
+## 🏆 Featured Projects
 
-[![Medium Articles](https://img.shields.io/badge/Read-My%20Articles-green?style=for-the-badge&logo=medium)](https://medium.com/@stoicgaster0.07)
+### AssureFi: AI-Powered Financial Security Platform
+Intelligent system that monitors financial transactions in real-time to detect fraudulent activities using advanced machine learning algorithms.
+- **Technologies**: React, TensorFlow, Blockchain
+
+### Medica Shield: Healthcare Compliance Automation
+Comprehensive solution for healthcare organizations to automate HIPAA compliance checks, vulnerability assessment, and security awareness training.
+- **Technologies**: Python, Django, AWS
+
+### Network Guardian: Advanced Network Analysis Tool
+Deep packet inspection and anomaly detection to identify potential security threats before they can cause damage.
+- **Technologies**: C++, Wireshark API, Machine Learning
+
+## 📜 Certifications
+
+- Offensive Security Certified Professional (OSCP)
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- AWS Security Specialty
+
+## 📬 Let's Connect
+
+I'm always open to discussing cybersecurity projects, career opportunities, or just chatting about the latest security trends!
+
+[![Email](https://img.shields.io/badge/Email-Contact-bd00ff?style=flat-square&logo=gmail)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
 
 ---
-**🔗 Explore my interactive terminal and discover more:** [**Launch Now**](https://StoicGang.github.io/StoicGang/) 🚀
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00ff9d&style=flat-square" alt="Profile views">
+</p>
