@@ -135,9 +135,9 @@ $ sudo ls -la /home/zer0/projects/
 $ grep -r "insights" /home/zer0/articles/
 ```
 
-- 🔐 [CVE-2023-XXXX: Understanding Web Application Security](#)
-- 🕵️‍♂️ [Threat Actor Analysis: Exploiting Misconfigured Systems](#)
-- 🛠️ [Defense-in-Depth: Threat Modeling & Risk Assessment](#)
+- 🔐 [Breaking into “Billing” | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
+- 🕵️‍♂️ [TryHackMe — GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
+- 🛠️ [TryHackMe: Publisher CTF Walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-publisher-ctf-walkthrough-e92a70337200)
 
 ## </ 01110011 01110100 01100001 01110100 01110011 > // SYSTEM_METRICS
 
