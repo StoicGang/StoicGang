@@ -1,86 +1,125 @@
-```sh
-> whoami
-👋 Hi, I'm Zer0
-> echo "Passionate Cybersecurity Enthusiast | Penetration Tester | Researcher"
-```
-
----
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hi, I'm Zer0
+> Cybersecurity Enthusiast | Penetration Tester | Researcher
 
 ![Profile Banner](A_digital_banner_image_displays_the_name_and_profe.png)
 
-```sh
-> cat about_me.txt
-```
-
 ## 🚀 About Me
-- 🛡 **Cybersecurity & Compliance Researcher**
-- 🏆 **World Record Holder** (Wondering Physics with Avinya)
-- 🏅 **International Hackathon Winner** (AssureFi - Agentic AI)
-- 🏆 **National Hackathon Winner** (Medica - Augmented Reality)
-- 🔬 **Developed Tools**: Compliance Automation Tool, Network Analyser, AssureFi, Medica
-- 💻 **Technical Expertise**: Penetration Testing, C++ & DSA, Python, Nmap, Burp Suite, AI Security
-- 📚 **Writing & Research**: Published Medium articles on Cybersecurity
+I'm a passionate cybersecurity professional with expertise in penetration testing, compliance research, and security tool development. My achievements include:
 
-```sh
-> cat tech_stack.txt
+- 🛡️ **Cybersecurity & Compliance Researcher**
+- 🏆 **World Record Holder** in "Wondering Physics with Avinya"
+- 🌟 **Award-Winning Projects:**
+  - 🥇 International Hackathon Winner (AssureFi - Agentic AI)
+  - 🥈 National Hackathon Winner (Medica - Augmented Reality)
+
+## 💻 Technical Expertise
+
+```python
+skills = {
+    "Security Tools": ["Nmap", "Burp Suite", "Metasploit", "Wireshark"],
+    "Programming": ["C++", "Python", "DSA"],
+    "Areas": ["Penetration Testing", "AI Security", "Compliance Automation"]
+}
 ```
 
-## 🛠 Tech Stack & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=white)
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-009639?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-```sh
-> ls projects/
-```
+## 🔐 Featured Projects
 
-## 📌 Featured Projects
-🚀 **AssureFi** *(Agentic AI Security Tool)*  
-🏆 *International Hackathon Winner*  
-📚 [GitHub Repository](#)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AssureFi</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=AssureFi" width="100%" alt="AssureFi"/>
+        </a>
+        <p align="center">
+          Agentic AI Security Tool | 🏆 International Hackathon Winner
+          <br>
+          <a href="#"><strong>View Code »</strong></a>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Compliance Automation Tool</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Compliance+Tool" width="100%" alt="Compliance Tool"/>
+        </a>
+        <p align="center">
+          Regulatory Auditing Framework
+          <br>
+          <a href="#"><strong>View Code »</strong></a>
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Medica</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Medica" width="100%" alt="Medica"/>
+        </a>
+        <p align="center">
+          AR for Healthcare | 🏅 National Hackathon Winner
+          <br>
+          <a href="#"><strong>View Code »</strong></a>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Network Analyser</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Network+Analyser" width="100%" alt="Network Analyser"/>
+        </a>
+        <p align="center">
+          Advanced Threat Detection Tool
+          <br>
+          <a href="#"><strong>View Code »</strong></a>
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-🛡 **Compliance Automation Tool** *(Regulatory Auditing Framework)*  
-📚 [GitHub Repository](#)
-
-🌍 **Medica** *(Augmented Reality for Healthcare)*  
-🏅 *National Hackathon Winner*  
-📚 [GitHub Repository](#)
-
-🔍 **Network Analyser** *(Advanced Threat Detection)*  
-📚 [GitHub Repository](#)
-
-```sh
-> cat latest_articles.txt
-```
-
-## 🐜 Latest Articles
-🌟 [Understanding Web Application Security](#)  
-🔍 [Exploiting Misconfigured Systems](#)  
-🛡 [Threat Modeling & Risk Assessment](#)  
-
-```sh
-> cat stats.log
-```
+## 📝 Latest Articles
+- 🌟 [Understanding Web Application Security](#)
+- 🔍 [Exploiting Misconfigured Systems](#)
+- 🛡️ [Threat Modeling & Risk Assessment](#)
 
 ## 📊 GitHub & TryHackMe Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true)  
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/2252732.png)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/2252732.png" alt="TryHackMe Stats" />
+</p>
 
-```sh
-> cat contacts.txt
-```
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zer0)  
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@your-profile">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/zer0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=zer0&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zer0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-```sh
-> exit
-```
+<!-- Thanks for visiting my profile! Feel free to reach out for collaboration or just to chat about cybersecurity. -->
