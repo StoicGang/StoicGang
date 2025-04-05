@@ -74,7 +74,7 @@ $ sudo ls -la /home/zer0/projects/
           <b>Objective:</b> Advanced threat detection using AI agents
         </p>
         <p>
-          <a href="#"><code>[Source_Code]</code></a>
+          <a href="https://github.com/AshKatale/assure-fi"><code>[Source_Code]</code></a>
         </p>
       </div>
     </td>
