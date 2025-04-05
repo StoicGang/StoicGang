@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hi, I'm Zer0
 > Cybersecurity Enthusiast | Penetration Tester | Researcher
 
-![Profile Banner]("Ganesh Ghadge.png")
+![Profile Banner]("Zer0.png")
 
 ## 🚀 About Me
 I'm a passionate cybersecurity professional with expertise in penetration testing, compliance research, and security tool development. My achievements include:
@@ -100,7 +100,7 @@ skills = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/2252732.png" alt="TryHackMe Stats" />
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" style='border:none;'></iframe>
 </p>
 
 ## 🤝 Connect With Me
