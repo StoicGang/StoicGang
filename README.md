@@ -67,7 +67,6 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">⚔️ AssureFi</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=AssureFi" width="100%" alt="AssureFi"/>
         <br><br>
         <p>
           <b>Classification:</b> Agentic AI Security Tool<br>
@@ -82,7 +81,6 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">🔒 Compliance Automation Tool</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Compliance+Tool" width="100%" alt="Compliance Tool"/>
         <br><br>
         <p>
           <b>Classification:</b> Regulatory Auditing Framework<br>
@@ -99,7 +97,6 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">🩺 Medica</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Medica" width="100%" alt="Medica"/>
         <br><br>
         <p>
           <b>Classification:</b> AR for Healthcare<br>
@@ -114,7 +111,6 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">📡 Network Analyser</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Network+Analyser" width="100%" alt="Network Analyser"/>
         <br><br>
         <p>
           <b>Classification:</b> Threat Detection Tool<br>
