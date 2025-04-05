@@ -90,7 +90,7 @@ $ sudo ls -la /home/zer0/projects/
           <b>Objective:</b> Automate security compliance checks
         </p>
         <p>
-          <a href="#"><code>[Source_Code]</code></a>
+          <a href="https://github.com/StoicGang/Compliance-Automation-Tool"><code>[Source_Code]</code></a>
         </p>
       </div>
     </td>
@@ -107,7 +107,7 @@ $ sudo ls -la /home/zer0/projects/
           <b>Objective:</b> Secure medical data visualization
         </p>
         <p>
-          <a href="#"><code>[Source_Code]</code></a>
+          <a href="https://github.com/StoicGang/Med-AR-Project"><code>[Source_Code]</code></a>
         </p>
       </div>
     </td>
