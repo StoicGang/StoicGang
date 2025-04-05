@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hi, I'm Zer0
 > Cybersecurity Enthusiast | Penetration Tester | Researcher
 
-![Profile Banner]("Zer0.png")
+![Profile Banner](Zer0.png)
 
 ## 🚀 About Me
 I'm a passionate cybersecurity professional with expertise in penetration testing, compliance research, and security tool development. My achievements include:
@@ -97,10 +97,10 @@ skills = {
 
 ## 📊 GitHub & TryHackMe Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" style='border:none;'></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" alt="TryHackMe Stats" />
 </p>
 
 ## 🤝 Connect With Me
@@ -111,7 +111,7 @@ skills = {
   <a href="https://medium.com/@your-profile">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://github.com/zer0">
+  <a href="https://github.com/StoicGang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
