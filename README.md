@@ -100,7 +100,7 @@ skills = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2252732" alt="TryHackMe Stats" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/1Zer0.png" alt="TryHackMe Stats" />
 </p>
 
 ## 🤝 Connect With Me
