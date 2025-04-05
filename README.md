@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hi, I'm Zer0
 > Cybersecurity Enthusiast | Penetration Tester | Researcher
 
-![Profile Banner](A_digital_banner_image_displays_the_name_and_profe.png)
+![Profile Banner]("Ganesh Ghadge.png")
 
 ## 🚀 About Me
 I'm a passionate cybersecurity professional with expertise in penetration testing, compliance research, and security tool development. My achievements include:
