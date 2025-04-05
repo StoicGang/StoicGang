@@ -141,11 +141,11 @@ $ grep -r "insights" /home/zer0/articles/
 $ htop
 ```
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/1Zer0.png" alt="TryHackMe Stats" />
 </div>
 
