@@ -67,7 +67,7 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">⚔️ AssureFi</h3>
       <div align="center">
-        <br><br>
+        <br>
         <p>
           <b>Classification:</b> Agentic AI Security Tool<br>
           <b>Status:</b> 🏆 International Hackathon Winner<br>
@@ -81,7 +81,7 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">🔒 Compliance Automation Tool</h3>
       <div align="center">
-        <br><br>
+        <br>
         <p>
           <b>Classification:</b> Regulatory Auditing Framework<br>
           <b>Status:</b> Active Development<br>
@@ -97,7 +97,7 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">🩺 Medica</h3>
       <div align="center">
-        <br><br>
+        <br>
         <p>
           <b>Classification:</b> AR for Healthcare<br>
           <b>Status:</b> 🏅 National Hackathon Winner<br>
@@ -111,7 +111,7 @@ $ sudo ls -la /home/zer0/projects/
     <td width="50%">
       <h3 align="center">📡 Network Analyser</h3>
       <div align="center">
-        <br><br>
+        <br>
         <p>
           <b>Classification:</b> Threat Detection Tool<br>
           <b>Status:</b> Active Deployment<br>
