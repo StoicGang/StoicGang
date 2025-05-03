@@ -140,10 +140,14 @@ $ neofetch
 
 ```shell
 ┌──[zer0㉿system]─[~/articles]
-└──╼ $ grep -r "insights" /home/zer0/articles/
+└──╼ $ curl -s https://medium.com/feed/@stoicgaster0.07
 ```
 
-- 🔐 [Breaking into “Billing” | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- This section will be automatically updated with your latest Medium stories -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+- 🔐 [Breaking into "Billing" | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
 - 🕵️‍♂️ [TryHackMe — GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
 - 🛠️ [TryHackMe: Publisher CTF Walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-publisher-ctf-walkthrough-e92a70337200)
 
@@ -203,6 +207,8 @@ $ neofetch
 ```
 
 ```shell
+┌──[zer0㉿system]─[~/wisdom]
+└──╼ $ cat quote.txt
 ╭──────────────────────────────────────────────╮
 │                                              │
 │   "The quieter you become,                   │
