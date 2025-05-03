@@ -140,12 +140,8 @@ $ neofetch
 
 ```shell
 ┌──[zer0㉿system]─[~/articles]
-└──╼ $ curl -s https://medium.com/feed/@stoicgaster0.07
+└──╼ $ curl -s https://medium.com/articles
 ```
-
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- This section will be automatically updated with your latest Medium stories -->
-<!-- MEDIUM-STORY-LIST:END -->
 
 - 🔐 [Breaking into "Billing" | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
 - 🕵️‍♂️ [TryHackMe — GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
