@@ -1,20 +1,11 @@
-# Data Structures and Algorithms in C++
-
-<div align="center">
-
-```ascii
+```
  ______     ______     ______     ______
 /\___  \   /\  ___\   /\  == \   /\  __ \
 \/_/  /__  \ \  __\   \ \  __<   \ \ \/\ \
   /\_____\  \ \_____\  \ \_\ \_\  \ \_____\
   \/_____/   \/_____/   \/_/ /_/   \/_____/
+
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Structures+and+Algorithms;System+Loading...;Access+Granted)](https://git.io/typing-svg)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FStoicGang%2FDSA-CPP&label=VISITORS&labelColor=%23000000&countColor=%2300FF00)
-
-</div>
 
 # < Terminal_Session: Active User="Zer0" >
 
@@ -26,11 +17,11 @@
 [*] Access granted...
 ```
 
-## </ 01100001 01100010 01101111 01110101 01110100 > // ABOUT_ME
+## <div class="typing-effect">01100001 01100010 01101111 01110101 01110100</div> // ABOUT_ME
 
-```bash
-$ cat /home/zer0/profile.conf
-```
+<div class="terminal">
+  <div class="command typing">$ cat /home/zer0/profile.conf</div>
+</div>
 
 I'm a cybersecurity specialist focusing on penetration testing, vulnerability research, and security architecture. My mission is to strengthen digital defenses and expose weaknesses before malicious actors can exploit them.
 
@@ -40,11 +31,11 @@ I'm a cybersecurity specialist focusing on penetration testing, vulnerability re
   - International Hackathon Champion (AssureFi - Agentic AI)
   - National Hackathon Domination (Medica - Augmented Reality)
 
-## </ 01110100 01101111 01101111 01101100 01110011 > // TECH_ARSENAL
+## <div class="typing-effect">01110100 01101111 01101111 01101100 01110011</div> // TECH_ARSENAL
 
-```bash
-$ ls -la /usr/bin/zer0/tools/
-```
+<div class="terminal">
+  <div class="command typing">$ ls -la /usr/bin/zer0/tools/</div>
+</div>
 
 | Tool Category         | Weapons of Choice                         |
 | --------------------- | ----------------------------------------- |
@@ -65,11 +56,11 @@ $ neofetch
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-## </ 01110000 01110010 01101111 01101010 01100101 01100011 01110100 01110011 > // BREACH_LOG
+## <div class="typing-effect">01110000 01110010 01101111 01101010 01100101 01100011 01110100 01110011</div> // BREACH_LOG
 
-```bash
-$ sudo ls -la /home/zer0/projects/
-```
+<div class="terminal">
+  <div class="command typing">$ sudo ls -la /home/zer0/projects/</div>
+</div>
 
 <table style="background-color: #0d1117; border-radius: 8px;">
   <tr>
@@ -134,21 +125,21 @@ $ sudo ls -la /home/zer0/projects/
   </tr>
 </table>
 
-## </ 01101001 01101110 01110100 01100101 01101100 > // INTEL_REPORTS
+## <div class="typing-effect">01101001 01101110 01110100 01100101 01101100</div> // INTEL_REPORTS
 
-```bash
-$ grep -r "insights" /home/zer0/articles/
-```
+<div class="terminal">
+  <div class="command typing">$ grep -r "insights" /home/zer0/articles/</div>
+</div>
 
 - 🔐 [Breaking into “Billing” | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
 - 🕵️‍♂️ [TryHackMe — GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
 - 🛠️ [TryHackMe: Publisher CTF Walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-publisher-ctf-walkthrough-e92a70337200)
 
-## </ 01110011 01110100 01100001 01110100 01110011 > // SYSTEM_METRICS
+## <div class="typing-effect">01110011 01110100 01100001 01110100 01110011</div> // SYSTEM_METRICS
 
-```bash
-$ htop
-```
+<div class="terminal">
+  <div class="command typing">$ htop</div>
+</div>
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
@@ -158,11 +149,11 @@ $ htop
   <img src="https://tryhackme-badges.s3.amazonaws.com/1Zer0.png" alt="TryHackMe Stats" />
 </div>
 
-## </ 01100011 01101111 01101101 01101101 01110011 > // CONTACT_PROTOCOLS
+## <div class="typing-effect">01100011 01101111 01101101 01101101 01110011</div> // CONTACT_PROTOCOLS
 
-```bash
-$ netstat -tuln
-```
+<div class="terminal">
+  <div class="command typing">$ netstat -tuln</div>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/ganesh-ghadge-9b103a258">
@@ -176,9 +167,9 @@ $ netstat -tuln
   </a>
 </div>
 
-```bash
-$ grep -c visitors /var/log/access.log
-```
+<div class="terminal">
+  <div class="command typing">$ grep -c visitors /var/log/access.log</div>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=StoicGang&label=System+Accesses&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -191,8 +182,41 @@ $ exit
 [*] Goodbye
 ```
 
-<!-- "The quieter you become, the more you can hear." - Ram Dass -->
+<style>
+.typing-effect {
+  font-family: 'Courier New', monospace;
+  animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
+  border-right: .15em solid #50fa7b;
+  overflow: hidden;
+  white-space: nowrap;
+}
 
-```
+.terminal .command.typing {
+  animation: typing 2s steps(30, end), blink-caret .75s step-end infinite;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: .15em solid #50fa7b;
+}
 
-```
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #50fa7b }
+}
+
+.terminal {
+  background: #282a36;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.command {
+  color: #50fa7b;
+  font-family: 'Courier New', monospace;
+}
+</style>
