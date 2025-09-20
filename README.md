@@ -161,7 +161,7 @@ $ neofetch
 </div>
 
 <div align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1Zer0.png" alt="TryHackMe Stats" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Xer0tic.png" alt="TryHackMe Stats" />
 </div>
 
 ## ╔══[💠]═[01100011 01101111 01101101 01101101 01110011]═══╗
