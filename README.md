@@ -9,7 +9,7 @@
 
 # < Terminal_Session: Active User="Zer0" >
 
-![Console Output](Zer0.png)
+![Console Output](banner)
 
 ```
 [*] Running system scan...
