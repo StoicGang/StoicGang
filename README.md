@@ -76,7 +76,8 @@ $ neofetch
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C99DC?style=for-the-badge&logo=wazuh&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-F8B500?style=for-the-badge&logo=thehive&logoColor=black)
 
 ## ╔══[💠]═[01100011 01100101 01110010 01110100 01110011]═══╗
 
@@ -188,18 +189,6 @@ $ neofetch
 ┌──[zer0㉿system]─[~]
 └──╼ $ htop
 ```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=StoicGang&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7fff00&icon_color=7fff00&text_color=c9d1d9" alt="GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicGang&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7fff00&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
