@@ -26,13 +26,24 @@
 └──╼ $ cat /home/zer0/profile.conf
 ```
 
-I'm a cybersecurity specialist focusing on penetration testing, vulnerability research, and security architecture. My mission is to strengthen digital defenses and expose weaknesses before malicious actors can exploit them.
+Cybersecurity specialist focused on **penetration testing**, **vulnerability research**, and **security architecture**. Building tools that find weaknesses before adversaries do.
 
 - 🛡️ **Security Clearance:** Cybersecurity & Compliance Researcher
+- 🎓 **Education:** B.E. Information Technology (Honors in Cybersecurity) - Pune University
 - 🏆 **Achievement Unlocked:** World Record Holder in "Wondering Physics with Avinya"
 - 🔓 **Root Access:**
   - International Hackathon Champion (AssureFi - Agentic AI)
   - National Hackathon Domination (Medica - Augmented Reality)
+
+```shell
+┌──[zer0㉿system]─[~/status]
+└──╼ $ cat /proc/current_ops
+```
+
+- 🔬 Building a full **SOC Lab** — TheHive + Cortex + MISP integration (Phase 4)
+- 📝 Writing **TryHackMe walkthrough articles** on Medium
+- 🔐 Exploring **GRC & ISO 27001** compliance frameworks
+- 🧠 Sharpening **web exploitation** and **privilege escalation** skills
 
 ## ╔══[💠]═[01110100 01101111 01101111 01101100 01110011]═══╗
 
@@ -43,24 +54,45 @@ I'm a cybersecurity specialist focusing on penetration testing, vulnerability re
 └──╼ $ ls -la /usr/bin/zer0/tools/
 ```
 
-| Tool Category         | Weapons of Choice                         |
-| --------------------- | ----------------------------------------- |
-| 🔍 **Reconnaissance** | Nmap, Shodan, OSINT Framework             |
-| 🧪 **Exploitation**   | Metasploit, Burp Suite, Custom Scripts    |
-| 🔐 **Defense**        | IDS/IPS, Firewall Configuration, SIEM     |
-| 💻 **Development**    | C++, Python, Bash                         |
-| 🧠 **Specialization** | AI Security, Network Analysis, Compliance |
+| Tool Category         | Weapons of Choice                                    |
+| --------------------- | ---------------------------------------------------- |
+| 🔍 **Reconnaissance** | Nmap, Shodan, OSINT Framework, Recon-ng              |
+| 🧪 **Exploitation**   | Metasploit, Burp Suite, Custom Scripts, SQLMap        |
+| 🔐 **Defense**        | IDS/IPS, Firewall Configuration, SIEM, Wazuh         |
+| 🔬 **SOC / IR**       | TheHive, Cortex, MISP, Wireshark, Splunk             |
+| 💻 **Development**    | Python, C++, Bash, Docker                            |
+| 🧠 **Specialization** | AI Security, Network Analysis, GRC & Compliance      |
 
 ```bash
 $ neofetch
 ```
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-009639?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+## ╔══[💠]═[01100011 01100101 01110010 01110100 01110011]═══╗
+
+## ╚════════ // CERTIFICATIONS ═════════╝
+
+```shell
+┌──[zer0㉿system]─[~/certs]
+└──╼ $ ls -la /home/zer0/certifications/
+```
+
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| 🔐 **Cisco Ethical Hacker** | Cisco | 2025 |
+| 🛡️ **Google Cybersecurity Professional** | Google | 2024 |
+| 💻 **Beginning C++ Programming** | Udemy | 2024 |
+| 🐚 **Shell Scripting** | Udemy | — |
 
 ## ╔══[💠]═[01110000 01110010 01101111 01101010 01100101 01100011 01110100 01110011]═══╗
 
@@ -71,7 +103,7 @@ $ neofetch
 └──╼ $ sudo ls -la /home/zer0/projects/
 ```
 
-<table style="background-color: #0d1117; border-radius: 8px;">
+<table>
     <tr>
         <td width="50%">
             <h3 align="center">⚔️ AssureFi</h3>
@@ -88,6 +120,22 @@ $ neofetch
             </div>
         </td>
         <td width="50%">
+            <h3 align="center">🔬 AI-Based SOC Lab</h3>
+            <div align="center">
+                <br>
+                <p>
+                    <b>Classification:</b> Security Operations Center<br>
+                    <b>Status:</b> Phase 4 - Active Development<br>
+                    <b>Objective:</b> Full SOC stack - TheHive, Cortex, MISP, Wazuh
+                </p>
+                <p>
+                    <a href="https://github.com/StoicGang/Airia-Ai-Based-SOC-lab"><code>[Source_Code]</code></a>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
             <h3 align="center">🔒 Compliance Automation Tool</h3>
             <div align="center">
                 <br>
@@ -101,8 +149,6 @@ $ neofetch
                 </p>
             </div>
         </td>
-    </tr>
-    <tr>
         <td width="50%">
             <h3 align="center">🩺 Medica</h3>
             <div align="center">
@@ -117,21 +163,8 @@ $ neofetch
                 </p>
             </div>
         </td>
-        <td width="50%">
-            <h3 align="center">📡 Network Analyser</h3>
-            <div align="center">
-                <br>
-                <p>
-                    <b>Classification:</b> Threat Detection Tool<br>
-                    <b>Status:</b> Active Deployment<br>
-                    <b>Objective:</b> Identify network vulnerabilities
-                </p>
-                <p>
-                    <a href="#"><code>[Source_Code]</code></a>
-                </p>
-            </div>
-        </td>
     </tr>
+
 </table>
 
 ## ╔══[💠]═[01101001 01101110 01110100 01100101 01101100]═══╗
@@ -143,8 +176,8 @@ $ neofetch
 └──╼ $ curl -s https://medium.com/articles
 ```
 
-- 🔐 [Breaking into "Billing" | TryHackMe Walkthrough](https://medium.com/@stoicgaster0.07/breaking-into-billing-tryhackme-walkthrough-613ac30c84fb)
-- 🕵️‍♂️ [TryHackMe — GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
+- 🔐 [Fixing Broken Arch Linux](https://medium.com/@stoicgaster0.07/fix-broken-arch-linux-corrupted-shared-libraries-after-failed-pacman-syu-update-f3d42ec82ac0)
+- 🕵️‍♂️ [TryHackMe - GREP walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-grep-walkthrough-79335d36154e)
 - 🛠️ [TryHackMe: Publisher CTF Walkthrough](https://medium.com/@stoicgaster0.07/tryhackme-publisher-ctf-walkthrough-e92a70337200)
 
 ## ╔══[💠]═[01110011 01110100 01100001 01110100 01110011]═══╗
@@ -156,11 +189,23 @@ $ neofetch
 └──╼ $ htop
 ```
 
-<div align="left">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=StoicGang&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7fff00&icon_color=7fff00&text_color=c9d1d9" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicGang&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=7fff00&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicGang&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="left">
+<div align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Xer0tic.png" alt="TryHackMe Stats" />
 </div>
 
@@ -179,6 +224,9 @@ $ neofetch
     </a>
     <a href="https://medium.com/@stoicgaster0.07">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://tryhackme.com/p/Xer0tic">
+        <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
     </a>
     <a href="https://github.com/StoicGang">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
