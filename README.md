@@ -92,8 +92,6 @@ $ neofetch
 |-------------|--------|------|
 | 🔐 **Cisco Ethical Hacker** | Cisco | 2025 |
 | 🛡️ **Google Cybersecurity Professional** | Google | 2024 |
-| 💻 **Beginning C++ Programming** | Udemy | 2024 |
-| 🐚 **Shell Scripting** | Udemy | — |
 
 ## ╔══[💠]═[01110000 01110010 01101111 01101010 01100101 01100011 01110100 01110011]═══╗
 
